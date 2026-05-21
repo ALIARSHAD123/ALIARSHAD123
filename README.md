@@ -1,6 +1,6 @@
 ![logo](https://github.com/ALIARSHAD123/ALIARSHAD123/blob/main/M.ALI%20ARSHAD.png)
 <h1 align="center">Hi 👋, I'm Muhammad Ali Arshad</h1>
-<h3 align="center">A Passionate Front-End Developer </h3>
+<h3 align="center">A Passionate Mern Developer </h3>
 
 <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRovpXJrJAwoL5hWtL94kdEV_OMpSf2dWlOrl9sZnWsGzHcIqnLNTzovqLWAG_Ge0pylU&usqp=CAU">
 
